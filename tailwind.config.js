@@ -12,7 +12,8 @@ module.exports = {
     extend: {
       colors: {
         neonLime: 'hsl(75, 94%, 57%)',
-        white: 'hsl(0, 0%, 20%)',
+        white:'hsl(0, 0%, 100%)',
+        grey: 'hsl(0, 0%, 20%)',
         darkGray: 'hsl(0, 0%, 12%)',
         offBlack: 'hsl(0, 0%, 8%)'
       },
