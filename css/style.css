@@ -629,6 +629,10 @@ video {
   line-height: 1rem;
 }
 
+.font-semibold {
+  font-weight: 600;
+}
+
 .text-neonLime {
   --tw-text-opacity: 1;
   color: hsl(75 94% 57% / var(--tw-text-opacity));
